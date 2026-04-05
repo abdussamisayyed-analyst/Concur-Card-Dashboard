@@ -22,11 +22,11 @@ Dashboard Pages
 
 ## 📷 Dashboard Preview
 
-### Card Overview
-![Overview](overview.png)
+### Active Card
+![Active Card](overview.png)
 
 ### Card Health Check
-![Health](health.png)
+![Card Health Check](health.png)
 
-### Compliance Tracking
-![Compliance](compliance.png)
+### Unsubmitted Movement
+![Unsubmitted Movement](compliance.png))
