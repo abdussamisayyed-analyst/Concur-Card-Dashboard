@@ -1,6 +1,7 @@
 # Concur-Card-Dashboard
 "Power Bi dashboard for Concur card spend &amp; compliance  analysis"
 https://drive.google.com/file/d/1EYk8DnA8A7DvOUcEDwcWItEei6qNGQSB/view?usp=sharing
+Note: Due to file size and format limitations, the PBIX file cannot be previewed in browser. Please click "Download anyway" and open using Power BI Desktop.
 
 Dashboard Pages 
 
@@ -18,3 +19,14 @@ Dashboard Pages
   - Overdue transactions  
   - Top employees with pending submissions  
   - Business stream analysis
+
+## 📷 Dashboard Preview
+
+### Card Overview
+![Overview](overview.png)
+
+### Card Health Check
+![Health](health.png)
+
+### Compliance Tracking
+![Compliance](compliance.png)
